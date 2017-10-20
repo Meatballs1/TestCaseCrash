@@ -1,0 +1,6 @@
+/home/ben/git/TestCaseCrash/TestCaseCrash/obj/x86/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/ben/git/TestCaseCrash/TestCaseCrash/bin/Debug/TestCaseCrash.exe.mdb
+/home/ben/git/TestCaseCrash/TestCaseCrash/bin/Debug/TestCaseCrash.exe
+/home/ben/git/TestCaseCrash/TestCaseCrash/obj/x86/Debug/TestCaseCrash.exe
+/home/ben/git/TestCaseCrash/TestCaseCrash/obj/x86/Debug/TestCaseCrash.exe.mdb
+/home/ben/git/TestCaseCrash/TestCaseCrash/bin/Debug/Neo4j.Driver.dll
